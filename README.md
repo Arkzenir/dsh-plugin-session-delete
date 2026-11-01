@@ -46,7 +46,7 @@ Restart the profile to apply.
 
 ## Credits
 
-This is a port of **`@huanlin/dsh-plugin-session-delete`**, originally published by its author at <https://github.com/lsz-asd/dsh-plugin-session-delete>. The plugin idea, the UI (header button, sidebar menu row, risk-consent dialog), the `workbench_session_delete` tool and the original delete chain are the original author's work. This repository keeps the `@huanlin` package scope and adapts the plugin to DeepSeek Harness 0.2.x.
+This is a port of **`@huanlin/dsh-plugin-session-delete`**, originally published by its author at <https://github.com/lsz-asd/dsh-plugin-session-delete>. The plugin idea, the UI (header button, sidebar menu row, risk-consent dialog), the `workbench_session_delete` tool and the original delete chain are the original author's work. This repository publishes the port under the `@arkzenir` scope and adapts it to DeepSeek Harness 0.2.x.
 
 ## Changelog
 
@@ -108,7 +108,7 @@ dsh plugin --profile desktop add github:Arkzenir/dsh-plugin-session-delete
 
 ## 致谢
 
-本插件移植自 **`@huanlin/dsh-plugin-session-delete`**，原始仓库：<https://github.com/lsz-asd/dsh-plugin-session-delete>。插件的最初构思、界面（头部按钮、侧栏菜单项、风险确认弹窗）、`workbench_session_delete` 工具以及最初的删除链路均出自原作者；本仓库保留 `@huanlin` 包名命名空间，并将其适配到 DeepSeek Harness 0.2.x。
+本插件移植自 **`@huanlin/dsh-plugin-session-delete`**，原始仓库：<https://github.com/lsz-asd/dsh-plugin-session-delete>。插件的最初构思、界面（头部按钮、侧栏菜单项、风险确认弹窗）、`workbench_session_delete` 工具以及最初的删除链路均出自原作者；本仓库以 `@arkzenir` 包名发布该移植版本，并将其适配到 DeepSeek Harness 0.2.x。
 
 ## 更新日志
 

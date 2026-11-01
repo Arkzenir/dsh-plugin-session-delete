@@ -27,7 +27,7 @@
 // No JSX: plain React.createElement. Only platform-seeded modules are required
 // (react, @deepseek-ai/dsh-client-ui-primitives).
 window.__ModuleLoader__.load({
-  id: '@huanlin/dsh-plugin-session-delete',
+  id: '@arkzenir/dsh-plugin-session-delete',
   factory: (require) => {
     const React = require('react')
     const { useCallback, useState } = React

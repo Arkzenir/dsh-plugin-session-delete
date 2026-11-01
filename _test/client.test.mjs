@@ -17,7 +17,7 @@ const SOURCE = fs.readFileSync(path.join(HERE, '..', 'src', 'client.js'), 'utf8'
 const MENU_SLOT = 'sidebar.workspaces.session.menu.item'
 const HEADER_SLOT = 'conversation.session.header.actions'
 const OVERLAY_SLOT = 'shell.overlay'
-const PACKAGE_ID = '@huanlin/dsh-plugin-session-delete'
+const PACKAGE_ID = '@arkzenir/dsh-plugin-session-delete'
 
 // --- stubs ---------------------------------------------------------------------
 

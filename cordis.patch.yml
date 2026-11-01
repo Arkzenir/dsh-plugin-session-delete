@@ -7,4 +7,4 @@
 # workspaceRegistry) and registers its tool as soon as `tools` exists.
 - insert:
     - id: chameleon-session-delete
-      name: '@huanlin/dsh-plugin-session-delete'
+      name: '@arkzenir/dsh-plugin-session-delete'
