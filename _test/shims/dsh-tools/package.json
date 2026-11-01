@@ -1,0 +1,8 @@
+{
+  "name": "@deepseek-ai/dsh-tools",
+  "version": "0.2.1-rc.5-test-shim",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "exports": { ".": "./index.js" }
+}

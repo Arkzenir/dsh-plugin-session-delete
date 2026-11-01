@@ -1,0 +1,6 @@
+# Build artifacts and local-only scratch material
+node_modules/
+*.log
+
+# Reference copies of the running DSH packages (extracted for API comparison)
+_ref/

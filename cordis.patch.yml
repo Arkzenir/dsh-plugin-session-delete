@@ -1,0 +1,10 @@
+# dsh-plugin-session-delete bundle layer: inserts the session-delete plugin row.
+# Loaded via `dsh plugin --profile <name> add <path>` — the row id stays stable
+# so re-adds and profile patches can target it.
+#
+# The plugin needs no config: it probes the optional services it uses
+# (webServer, sessions, agents, storageDomain, sessionPersistence,
+# workspaceRegistry) and registers its tool as soon as `tools` exists.
+- insert:
+    - id: chameleon-session-delete
+      name: '@huanlin/dsh-plugin-session-delete'
